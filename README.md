@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusahmadov&label=Profile%20views&color=0e75b6&style=flat" alt="yunusahmadov" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Nike-Shoes-Project**
 
-- 🌱 I’m currently learning **Typescript,Next.js**
+- 🌱 I’m currently learning **Typescript,Next.js,Vue.js**
 
 - 💬 Ask me about **React**
 
