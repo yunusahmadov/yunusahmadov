@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusahmadov&theme=tokyonight" alt="yunusahmadov" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusahmadov&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yunusahmadov" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusahmadov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yunusahmadov" /></p>
 
 
