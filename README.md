@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">A full-stack developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Store-Project**
+- 🔭 I’m currently working on **Testing**
 
-- 🌱 I’m currently learning **Typescript,Next.js,Vue.js**
+- 🌱 I’m currently learning **Next.js,Vue.js**
 
 - 💬 Ask me about **React**
 
