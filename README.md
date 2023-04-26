@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">A full-stack developer from Azerbaijan</h3>
 
-🔭 I’m currently working on **[Interview Project](https://github.com/yunusahmadov/InterviewProject)**
+🔭 I’m currently working on Freelance Project
 
 🌱 I’m currently learning **Next.js,Vue.js**
 
