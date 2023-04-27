@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Freelance Project
 
-🌱 I’m currently learning **Next.js,Vue.js**
+🌱 I’m currently learning **Next.js**
 
 💬 Ask me about **React**
 
