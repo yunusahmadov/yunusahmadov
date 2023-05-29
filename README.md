@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">A full-stack developer from Azerbaijan</h3>
 
-🔭 I’m currently working on Freelance Project Сomputer Assembly Course
+🔭 I’m currently working on  Сomputer Assembly Course
 
 🌱 I’m currently learning **Next.js**
 
