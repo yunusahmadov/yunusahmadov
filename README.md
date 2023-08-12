@@ -9,7 +9,8 @@
 
 <h3 align="left">I solve problems in:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/yunusahmdv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/yunusahmdv/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yunusahmdv/" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/yunusahmdv/" height="30" width="40" /></a>
+ <a href="https://www.codewars.com/users/Yunus2002" target="blank"><img align="center" src="https://sean.brunnock.com/Images/codewars.svg" alt="leetcode.com/yunusahmdv/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
