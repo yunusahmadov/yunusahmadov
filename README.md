@@ -13,7 +13,7 @@
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=10)](https://skillicons.dev) 
 
-##Stats
+## Stats
 <div>
  <img style='width:58%;' src="https://github.r2v.ch/codewars?user=YunusAhmadov" /> 
  <img style='width:41%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusahmadov&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
