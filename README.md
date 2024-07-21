@@ -23,14 +23,20 @@
   
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=10)](https://skillicons.dev) 
- 
- 
- 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusahmadov&theme=tokyonight" alt="yunusahmadov" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusahmadov&layout=donut&theme=tokyonight" alt="yunusahmadov" /></p>
+##Stats
+<div>
+ <img style='width:58%;' src="https://github.r2v.ch/codewars?user=YunusAhmadov" /> 
+ <img style='width:41%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusahmadov&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
-</p>
+
+
+     
+  
+
+</div>
+ 
+ 
 
 
 
