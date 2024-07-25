@@ -1,3 +1,8 @@
+<p align="center">
+  <a>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="400">
+  </a>
+</p>
 <h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">A full-stack developer from Azerbaijan</h3>
 
