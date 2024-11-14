@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,express,php&perline=10)](https://skillicons.dev)
   
 ## DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=10)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel&perline=10)](https://skillicons.dev) 
 
 <div>
 <!--  <img style='width:58%;' src="https://github.r2v.ch/codewars?user=YunusAhmadov" /> 
